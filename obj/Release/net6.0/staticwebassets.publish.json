@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Ka17E8084beAm6D5cbBZPOWLZpoK1j54hHUXIFZ6DLg=",
+  "Source": "Deloitte.MnANextGenAnalytics.WebAPI",
+  "BasePath": "_content/Deloitte.MnANextGenAnalytics.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

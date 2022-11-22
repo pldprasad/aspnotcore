@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Deloitte.MnANextGenAnalytics.WebAPI.props" />
+</Project>
