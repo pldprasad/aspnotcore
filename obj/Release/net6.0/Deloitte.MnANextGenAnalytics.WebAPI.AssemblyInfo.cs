@@ -11,6 +11,7 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("6f4562ef-c244-49d9-973e-f62b06b85359")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Deloitte.MnANextGenAnalytics.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
